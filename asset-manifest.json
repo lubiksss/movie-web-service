@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/lubiksss/movie-web-service/static/js/main.386db152.js",
-    "index.html": "/lubiksss/movie-web-service/index.html",
-    "main.386db152.js.map": "/lubiksss/movie-web-service/static/js/main.386db152.js.map"
+    "main.js": "/movie-web-service/static/js/main.386db152.js",
+    "index.html": "/movie-web-service/index.html",
+    "main.386db152.js.map": "/movie-web-service/static/js/main.386db152.js.map"
   },
   "entrypoints": [
     "static/js/main.386db152.js"
